@@ -6,7 +6,7 @@ Zimam (زمام, the reins) makes small apps that keep your things on your own d
 
 | | App | What it is |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rukn-icon.svg" width="48"> | **[Rukn](https://github.com/zimamlabs/rukn)** | A calm reader for PDFs, text and paper books. Covers, lists, reading time, notes and an online lookup for book details. Android first, Linux next. |
+| <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rukn-icon.svg" width="48"> | **[Rukn](https://github.com/zimamlabs/rukn)** | A calm reader for PDFs, text and paper books. Covers, lists, reading time, notes and an online lookup for book details. Android first; Linux comes after version 1. |
 | <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/dawem-icon.svg" width="48"> | **[Dawem](https://github.com/zimamlabs/dawem)** | Notes, journal, tasks and habits in plain-file vaults. Android and Linux from one codebase. |
 
 Every release carries one file per platform with its own `.sha256`, signed with the project's own key. See each app's README for how to verify a download.
