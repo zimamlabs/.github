@@ -11,4 +11,4 @@ Zimam (زمام, the reins) makes small apps that keep your things on your own d
 
 Every release carries one file per platform with its own `.sha256`, signed with the project's own key. See each app's README for how to verify a download.
 
-**In the works:** Zemma (money, ذمّة), Hemma (health and training, همّة) and Falah (prayer, فلاح).
+**In the works:** Zimma (money, ذمّة), Himma (health and training, همّة) and Falah (prayer, فلاح).
