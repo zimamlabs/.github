@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/zimam-lockup.png" width="520" alt="Zimam"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/zimam-lockup.png" width="640" alt="Zimam"></p>
 
 <p align="center"><b>Calm, private, open-source apps you stay in control of.</b></p>
 
