@@ -32,10 +32,11 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 <!-- RELEASES:START -->
 | App | Latest | Released |
 |---|---|---|
+| **Manhal** | [v0.14.0](https://github.com/zimamlabs/manhal/releases/tag/v0.14.0) | 2026-10-14 |
+| **Athar** | [v0.1.0](https://github.com/zimamlabs/athar/releases/tag/v0.1.0) | 2026-10-14 |
 | **Thabit** | [v0.8.0](https://github.com/zimamlabs/thabit/releases/tag/v0.8.0) | 2026-10-14 |
 | **Namaa** | [v0.5.0](https://github.com/zimamlabs/namaa/releases/tag/v0.5.0) | 2026-10-14 |
 | **Falah** | [v0.5.0](https://github.com/zimamlabs/falah/releases/tag/v0.5.0) | 2026-10-14 |
-| **Rukn** | [v0.13.1](https://github.com/zimamlabs/manhal/releases/tag/v0.13.1) | 2026-10-14 |
 | **Himma** | [v0.3.1](https://github.com/zimamlabs/himma/releases/tag/v0.3.1) | 2026-10-14 |
 | **Rahhala** | [v0.1.1](https://github.com/zimamlabs/rahhala/releases/tag/v0.1.1) | 2026-10-14 |
 | **Rakeb** | [v0.1.1](https://github.com/zimamlabs/rakeb/releases/tag/v0.1.1) | 2026-10-14 |
@@ -44,18 +45,18 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 ## What we are shipping
 
 <!-- ACTIVITY:START -->
+- `2026-10-14` **Manhal**: [feat: manhal rename](https://github.com/zimamlabs/manhal/pull/33)
+- `2026-10-14` **Manhal**: [feat: arabic rtl](https://github.com/zimamlabs/manhal/pull/32)
 - `2026-10-14` **Thabit**: [feat: insights charts](https://github.com/zimamlabs/thabit/pull/31)
 - `2026-10-14` **Falah**: [docs: languages line](https://github.com/zimamlabs/falah/pull/14)
 - `2026-10-14` **Thabit**: [feat: reminders](https://github.com/zimamlabs/thabit/pull/30)
 - `2026-10-14` **Thabit**: [docs: names and readme](https://github.com/zimamlabs/thabit/pull/29)
 - `2026-10-14` **Namaa**: [feat: arabic rtl](https://github.com/zimamlabs/namaa/pull/13)
 - `2026-10-14` **Falah**: [docs: names and readme](https://github.com/zimamlabs/falah/pull/13)
-- `2026-10-14` **Rukn**: [docs: names and readme](https://github.com/zimamlabs/manhal/pull/31)
+- `2026-10-14` **Manhal**: [docs: names and readme](https://github.com/zimamlabs/manhal/pull/31)
 - `2026-10-14` **Rakeb**: [docs: names and readme](https://github.com/zimamlabs/rakeb/pull/4)
 - `2026-10-14` **Thabit**: [feat: final thabit icon](https://github.com/zimamlabs/thabit/pull/28)
 - `2026-10-14` **Falah**: [feat: arabic rtl](https://github.com/zimamlabs/falah/pull/12)
-- `2026-10-14` **Rahhala**: [docs: names and readme](https://github.com/zimamlabs/rahhala/pull/5)
-- `2026-10-14` **Namaa**: [docs: names and readme](https://github.com/zimamlabs/namaa/pull/12)
 <!-- ACTIVITY:END -->
 
 <sub>These two lists refresh from GitHub every six hours.</sub>
