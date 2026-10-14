@@ -10,6 +10,7 @@ Zimam (زمام, the reins) makes small apps that keep your things on your own d
 | <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/zimma-icon.svg?v=2" width="48"> | **[Zimma](https://github.com/zimamlabs/zimma)** | Private money tracking in plain files: accounts, income and spending, monthly totals. Android. |
 | <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/falah-icon.svg?v=2" width="48"> | **[Falah](https://github.com/zimamlabs/falah)** | Prayer times for where you are, the next prayer and the qibla. Android, with a notification at each prayer. |
 | <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/dawem-icon.svg?v=2" width="48"> | **[Dawem](https://github.com/zimamlabs/dawem)** | Notes, journal, tasks and habits in plain-file vaults. Android and Linux from one codebase. |
+| <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rakeb-icon.svg?v=2" width="48"> | **[Rakeb](https://github.com/zimamlabs/rakeb)** | Ride hailing (راكب). 0.1.0 is an offline prototype of the rider flow: fare estimate, simulated ride, history and receipt. No server yet. Android. |
 
 Every release carries one file per platform with its own `.sha256`, signed with the project's own key. See each app's README for how to verify a download.
 
@@ -18,5 +19,4 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 | | | |
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rahhala-icon.svg?v=2" width="48"> | **[Rahhala](https://github.com/zimamlabs/rahhala)** | Trips, places and events with a guest list and entry control (رحّالة). |
-| <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rakeb-icon.svg?v=2" width="48"> | **[Rakeb](https://github.com/zimamlabs/rakeb)** | Ride hailing for riders, drivers and operations (راكب). |
 | <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/himma-icon.svg?v=2" width="48"> | **Himma** | Health and training: meals, water, fasting, gym and medicine reminders (همّة). |
