@@ -31,12 +31,12 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 <!-- RELEASES:START -->
 | App | Latest | Released |
 |---|---|---|
+| **Himma** | [v0.3.0](https://github.com/zimamlabs/himma/releases/tag/v0.3.0) | 2026-10-14 |
 | **Rahhala** | [v0.1.1](https://github.com/zimamlabs/rahhala/releases/tag/v0.1.1) | 2026-10-14 |
 | **Falah** | [v0.3.0](https://github.com/zimamlabs/falah/releases/tag/v0.3.0) | 2026-10-14 |
 | **Rukn** | [v0.12.1](https://github.com/zimamlabs/rukn/releases/tag/v0.12.1) | 2026-10-14 |
 | **Zimma** | [v0.2.0](https://github.com/zimamlabs/zimma/releases/tag/v0.2.0) | 2026-10-14 |
 | **Rakeb** | [v0.1.1](https://github.com/zimamlabs/rakeb/releases/tag/v0.1.1) | 2026-10-14 |
-| **Himma** | [v0.2.0](https://github.com/zimamlabs/himma/releases/tag/v0.2.0) | 2026-10-14 |
 | **Dawem** | [v0.6.1](https://github.com/zimamlabs/dawem/releases/tag/v0.6.1) | 2026-10-14 |
 <!-- RELEASES:END -->
 
