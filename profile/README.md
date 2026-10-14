@@ -31,10 +31,10 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 <!-- RELEASES:START -->
 | App | Latest | Released |
 |---|---|---|
+| **Dawem** | [v0.7.0](https://github.com/zimamlabs/thabit/releases/tag/v0.7.0) | 2026-10-14 |
+| **Falah** | [v0.5.0](https://github.com/zimamlabs/falah/releases/tag/v0.5.0) | 2026-10-14 |
 | **Namaa** | [v0.4.0](https://github.com/zimamlabs/namaa/releases/tag/v0.4.0) | 2026-10-14 |
 | **Rukn** | [v0.13.1](https://github.com/zimamlabs/rukn/releases/tag/v0.13.1) | 2026-10-14 |
-| **Dawem** | [v0.7.1](https://github.com/zimamlabs/dawem/releases/tag/v0.7.1) | 2026-10-14 |
-| **Falah** | [v0.4.1](https://github.com/zimamlabs/falah/releases/tag/v0.4.1) | 2026-10-14 |
 | **Himma** | [v0.3.1](https://github.com/zimamlabs/himma/releases/tag/v0.3.1) | 2026-10-14 |
 | **Rahhala** | [v0.1.1](https://github.com/zimamlabs/rahhala/releases/tag/v0.1.1) | 2026-10-14 |
 | **Rakeb** | [v0.1.1](https://github.com/zimamlabs/rakeb/releases/tag/v0.1.1) | 2026-10-14 |
@@ -43,18 +43,18 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 ## What we are shipping
 
 <!-- ACTIVITY:START -->
+- `2026-10-14` **Falah**: [docs: names and readme](https://github.com/zimamlabs/falah/pull/13)
+- `2026-10-14` **Rukn**: [docs: names and readme](https://github.com/zimamlabs/rukn/pull/31)
+- `2026-10-14` **Rakeb**: [docs: names and readme](https://github.com/zimamlabs/rakeb/pull/4)
+- `2026-10-14` **Dawem**: [feat: final thabit icon](https://github.com/zimamlabs/thabit/pull/28)
+- `2026-10-14` **Falah**: [feat: arabic rtl](https://github.com/zimamlabs/falah/pull/12)
+- `2026-10-14` **Rahhala**: [docs: names and readme](https://github.com/zimamlabs/rahhala/pull/5)
+- `2026-10-14` **Namaa**: [docs: names and readme](https://github.com/zimamlabs/namaa/pull/12)
+- `2026-10-14` **Himma**: [docs: names and readme](https://github.com/zimamlabs/himma/pull/10)
+- `2026-10-14` **Dawem**: [refactor: rename to thabit](https://github.com/zimamlabs/thabit/pull/27)
+- `2026-10-14` **Dawem**: [feat: tasks repeat subtasks tags](https://github.com/zimamlabs/thabit/pull/26)
 - `2026-10-14` **Namaa**: [feat: rename namaa](https://github.com/zimamlabs/namaa/pull/11)
 - `2026-10-14` **Himma**: [docs: readme icon only](https://github.com/zimamlabs/himma/pull/9)
-- `2026-10-14` **Dawem**: [docs: readme no board image](https://github.com/zimamlabs/dawem/pull/25)
-- `2026-10-14` **Rukn**: [feat: app theme settings speed](https://github.com/zimamlabs/rukn/pull/30)
-- `2026-10-14` **Falah**: [docs: readme icon only](https://github.com/zimamlabs/falah/pull/11)
-- `2026-10-14` **Dawem**: [feat: design pass](https://github.com/zimamlabs/dawem/pull/24)
-- `2026-10-14` **Dawem**: [fix: exports inside zimam folder](https://github.com/zimamlabs/dawem/pull/23)
-- `2026-10-14` **Falah**: [test: files stay in zimam folder](https://github.com/zimamlabs/falah/pull/10)
-- `2026-10-14` **Namaa**: [test: everything stays in the zimam folder](https://github.com/zimamlabs/namaa/pull/10)
-- `2026-10-14` **Rukn**: [feat: rukn 0130](https://github.com/zimamlabs/rukn/pull/29)
-- `2026-10-14` **Falah**: [feat: design pass about](https://github.com/zimamlabs/falah/pull/9)
-- `2026-10-14` **Namaa**: [feat: plan screens 0 3 0](https://github.com/zimamlabs/namaa/pull/9)
 <!-- ACTIVITY:END -->
 
 <sub>These two lists refresh from GitHub every six hours.</sub>
