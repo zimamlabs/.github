@@ -15,8 +15,3 @@ Zimam (زمام, the reins) makes small apps that keep your things on your own d
 | <img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rahhala-icon.svg?v=2" width="48"> | **[Rahhala](https://github.com/zimamlabs/rahhala)** | Places to go, trips with days, packing and a budget, and events with a guest list and door check-in, in plain files (رحّالة). Android. |
 
 Every release carries one file per platform with its own `.sha256`, signed with the project's own key. See each app's README for how to verify a download.
-
-**In the works:**
-
-| | | |
-|---|---|---|
