@@ -16,7 +16,7 @@
 
 | | App | What it is | Status |
 |---|---|---|---|
-| <a href="https://github.com/zimamlabs/rukn"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rukn-icon.png?v=4" width="64" alt="Rukn"></a> | **[Rukn](https://github.com/zimamlabs/rukn)** <sub>ركن</sub><br><sub>Read</sub> | A calm reader for PDFs, EPUB books, comics, text and paper books. Highlight, draw and comment on PDFs without losing the original. Covers, lists, reading time and an online lookup for book details. | ![release](https://img.shields.io/github/v/release/zimamlabs/rukn?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/rukn/total?label=downloads&color=121214&style=flat-square) |
+| <a href="https://github.com/zimamlabs/rukn"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rukn-icon.png?v=4" width="64" alt="Rukn"></a> | **[Rukn](https://github.com/zimamlabs/rukn)** <sub>ركن, becoming Manhal</sub><br><sub>Read</sub> | A calm reader for PDFs, EPUB books, comics, text and paper books. Highlight, draw and comment on PDFs without losing the original. Covers, lists, reading time and an online lookup for book details. | ![release](https://img.shields.io/github/v/release/zimamlabs/rukn?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/rukn/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/thabit"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/thabit-icon.png?v=5" width="64" alt="Thabit"></a> | **[Thabit](https://github.com/zimamlabs/thabit)** <sub>ثابت</sub><br><sub>Steady</sub> | Habits and tasks in plain-file vaults (formerly Dawem). A Home with today's rings, streaks and quick capture. Android and Linux from one codebase. | ![release](https://img.shields.io/github/v/release/zimamlabs/thabit?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/thabit/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/falah"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/falah-icon.png?v=4" width="64" alt="Falah"></a> | **[Falah](https://github.com/zimamlabs/falah)** <sub>فلاح</sub><br><sub>Pray</sub> | Prayer times for where you are, the next prayer with a countdown, the qibla, and a log of your prayers. Works offline. | ![release](https://img.shields.io/github/v/release/zimamlabs/falah?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/falah/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/namaa"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/namaa-icon.png?v=5" width="64" alt="Namaa"></a> | **[Namaa](https://github.com/zimamlabs/namaa)** <sub>نماء</sub><br><sub>Money</sub> | Private money tracking in plain files: accounts, income and spending, monthly charts, budgets, repeating transactions and who owes whom. Formerly Zimma. | ![release](https://img.shields.io/github/v/release/zimamlabs/namaa?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/namaa/total?label=downloads&color=121214&style=flat-square) |
@@ -61,10 +61,11 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 
 ## Now building
 
-- **Home pages** in every app: a greeting, rings and charts for today, quick actions and shortcuts, in the Zimam look.
-- **First-run tours** and a one-time "What's new" after each update.
-- **One folder for everything:** each app keeps its visible data in `Zimam/<App>`, copied across without ever deleting the old folder.
-- **Rukn:** PDF editing is out; text search and translation are next. **Thabit:** reminders, charts and its habits and tasks insights. **Falah:** prayer log, compass, timetable, tasbih. **Namaa:** budgets, transfers, recurring entries, who owes whom. **Himma:** gym, steps and meal templates. **Rakeb:** a Go backend. **Rahhala:** maps and QR entry.
+- **Stabilization first:** bug fixes, cleaner code and tests for Rukn (becoming Manhal), Thabit and Himma, checked on real phones, before more features.
+- **Arabic and right-to-left screens** in every app.
+- **Rukn:** text search in a book and translation of selected text. **Thabit:** reminders, repeating tasks and charts. **Falah:** home-screen widget and your own location. **Namaa:** savings goals and bank CSV import. **Himma:** gym plans and meal reminders. **Rahhala:** maps and QR entry at the door. **Rakeb:** a Go backend with real accounts and matching.
+- **Athar** (أثر): a new app, in design.
+- **Names:** Rukn is becoming **Manhal** (منهل); Dawem is now **Thabit**; Zimma is now **Namaa**.
 
 ## How we build
 
