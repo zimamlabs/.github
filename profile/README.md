@@ -3,7 +3,7 @@
 <p align="center"><b>Calm, private, open-source apps you stay in control of.</b></p>
 
 <p align="center">
-  <a href="https://github.com/zimamlabs?tab=repositories"><img alt="apps" src="https://img.shields.io/badge/apps-7-FF5A1F?style=flat-square"></a>
+  <a href="https://github.com/zimamlabs?tab=repositories"><img alt="apps" src="https://img.shields.io/badge/apps-8-FF5A1F?style=flat-square"></a>
   <img alt="licence" src="https://img.shields.io/badge/licence-MIT-121214?style=flat-square">
   <img alt="accounts" src="https://img.shields.io/badge/accounts-none-121214?style=flat-square">
   <img alt="tracking" src="https://img.shields.io/badge/tracking-none-121214?style=flat-square">
@@ -23,6 +23,7 @@
 | <a href="https://github.com/zimamlabs/himma"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/himma-icon.png?v=4" width="64" alt="Himma"></a> | **[Himma](https://github.com/zimamlabs/himma)** <sub>همّة</sub><br><sub>Health</sub> | Meals, water, fasting, medicine reminders, gym routines and steps, kept on your phone. | ![release](https://img.shields.io/github/v/release/zimamlabs/himma?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/himma/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/rakeb"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rakeb-icon.png?v=4" width="64" alt="Rakeb"></a> | **[Rakeb](https://github.com/zimamlabs/rakeb)** <sub>راكب</sub><br><sub>Ride</sub> | Ride hailing for riders, drivers and operations. 0.1 is an offline rider prototype; a Go backend is next. | ![release](https://img.shields.io/github/v/release/zimamlabs/rakeb?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/rakeb/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/rahhala"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rahhala-icon.png?v=4" width="64" alt="Rahhala"></a> | **[Rahhala](https://github.com/zimamlabs/rahhala)** <sub>رحّالة</sub><br><sub>Travel</sub> | Places to go, trips with days, packing and a budget, and events with a guest list and door check-in. | ![release](https://img.shields.io/github/v/release/zimamlabs/rahhala?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/rahhala/total?label=downloads&color=121214&style=flat-square) |
+| <a href="https://github.com/zimamlabs/athar"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/athar-icon.png?v=1" width="64" alt="Athar"></a> | **[Athar](https://github.com/zimamlabs/athar)** <sub>أثر</sub><br><sub>Keep what matters</sub> | Notes, journal and clipboard history in plain files, with import from Thabit and Dawem. Linux and Android; English and Arabic. | ![release](https://img.shields.io/github/v/release/zimamlabs/athar?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/athar/total?label=downloads&color=121214&style=flat-square) |
 
 Every release carries one file per platform with its own `.sha256`, signed with the app's own key. The numbers above come live from GitHub.
 
