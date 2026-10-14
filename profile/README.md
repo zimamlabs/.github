@@ -13,4 +13,4 @@ Zimam (زمام, the reins) makes small apps that keep your things on your own d
 
 Every release carries one file per platform with its own `.sha256`, signed with the project's own key. See each app's README for how to verify a download.
 
-**In the works:** [Rahhala](https://github.com/zimamlabs/rahhala) (trips, places and events, رحّالة), [Rakeb](https://github.com/zimamlabs/rakeb) (ride hailing, راكب), Himma (health and training, همّة) and Falah (prayer, فلاح).
+**In the works:** [Rahhala](https://github.com/zimamlabs/rahhala) (trips, places and events, رحّالة), [Rakeb](https://github.com/zimamlabs/rakeb) (ride hailing, راكب) and Himma (health and training, همّة).
