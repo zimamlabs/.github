@@ -30,29 +30,29 @@ Every app is **Android today** (Linux editions come later, after each app reache
 <!-- RELEASES:START -->
 | App | Latest | Released |
 |---|---|---|
+| **Himma** | [v0.5.0](https://github.com/zimamlabs/himma/releases/tag/v0.5.0) | 2026-10-15 |
+| **Namaa** | [v0.6.0](https://github.com/zimamlabs/namaa/releases/tag/v0.6.0) | 2026-10-15 |
 | **Manhal** | [v0.14.3](https://github.com/zimamlabs/manhal/releases/tag/v0.14.3) | 2026-10-15 |
 | **Falah** | [v0.5.1](https://github.com/zimamlabs/falah/releases/tag/v0.5.1) | 2026-10-15 |
 | **Thabit** | [v0.9.0](https://github.com/zimamlabs/thabit/releases/tag/v0.9.0) | 2026-10-15 |
 | **Athar** | [v0.1.1](https://github.com/zimamlabs/athar/releases/tag/v0.1.1) | 2026-10-15 |
-| **Namaa** | [v0.5.1](https://github.com/zimamlabs/namaa/releases/tag/v0.5.1) | 2026-10-15 |
-| **Himma** | [v0.4.1](https://github.com/zimamlabs/himma/releases/tag/v0.4.1) | 2026-10-15 |
 <!-- RELEASES:END -->
 
 ## What we are shipping
 
 <!-- ACTIVITY:START -->
-- `2026-10-15` **Himma**: [feat: drawer and pager](https://github.com/zimamlabs/himma/pull/42)
-- `2026-10-15` **Himma**: [feat: colour themes and text size](https://github.com/zimamlabs/himma/pull/41)
-- `2026-10-15` **Namaa**: [fix: fallback folder transactions stay visible](https://github.com/zimamlabs/namaa/pull/42)
-- `2026-10-15` **Himma**: [feat: settings repository](https://github.com/zimamlabs/himma/pull/40)
-- `2026-10-15` **Falah**: [feat: pager and drawer](https://github.com/zimamlabs/falah/pull/39)
-- `2026-10-15` **Himma**: [refactor: split main screen](https://github.com/zimamlabs/himma/pull/39)
-- `2026-10-15` **Namaa**: [fix: repeating rule edit and catch up](https://github.com/zimamlabs/namaa/pull/41)
-- `2026-10-15` **Manhal**: [chore: manhal names in docs and files](https://github.com/zimamlabs/manhal/pull/65)
-- `2026-10-15` **Athar**: [docs: remove old names 2026 10 15](https://github.com/zimamlabs/athar/pull/21)
-- `2026-10-15` **Himma**: [fix: accessibility labels](https://github.com/zimamlabs/himma/pull/38)
-- `2026-10-15` **Namaa**: [chore: namaa branding file names](https://github.com/zimamlabs/namaa/pull/40)
-- `2026-10-15` **Himma**: [fix: arabic digits and plurals](https://github.com/zimamlabs/himma/pull/37)
+- `2026-10-15` **Falah**: [feat: gps location](https://github.com/zimamlabs/falah/pull/45)
+- `2026-10-15` **Himma**: [fix: audit leftovers](https://github.com/zimamlabs/himma/pull/47)
+- `2026-10-15` **Manhal**: [feat: context menu](https://github.com/zimamlabs/manhal/pull/69)
+- `2026-10-15` **Namaa**: [feat: settings sections and themes](https://github.com/zimamlabs/namaa/pull/49)
+- `2026-10-15` **Falah**: [feat: prayer notice screen](https://github.com/zimamlabs/falah/pull/44)
+- `2026-10-15` **Himma**: [release: 0.5.0](https://github.com/zimamlabs/himma/pull/46)
+- `2026-10-15` **Manhal**: [feat: settings hub](https://github.com/zimamlabs/manhal/pull/68)
+- `2026-10-15` **Namaa**: [feat: typed settings object](https://github.com/zimamlabs/namaa/pull/48)
+- `2026-10-15` **Himma**: [feat: long press menu](https://github.com/zimamlabs/himma/pull/45)
+- `2026-10-15` **Falah**: [feat: countdown hh mm ss](https://github.com/zimamlabs/falah/pull/43)
+- `2026-10-15` **Namaa**: [chore: release 0 6 0](https://github.com/zimamlabs/namaa/pull/47)
+- `2026-10-15` **Manhal**: [feat: settings repository](https://github.com/zimamlabs/manhal/pull/67)
 <!-- ACTIVITY:END -->
 
 <sub>These two lists refresh from GitHub every six hours.</sub>
