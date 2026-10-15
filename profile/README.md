@@ -21,8 +21,6 @@
 | <a href="https://github.com/zimamlabs/falah"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/falah-icon.png?v=4" width="64" alt="Falah"></a> | **[Falah](https://github.com/zimamlabs/falah)** <sub>فلاح</sub><br><sub>Pray</sub> | Prayer times for where you are, the next prayer with a countdown, the qibla, and a log of your prayers. Works offline. | ![release](https://img.shields.io/github/v/release/zimamlabs/falah?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/falah/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/namaa"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/namaa-icon.png?v=5" width="64" alt="Namaa"></a> | **[Namaa](https://github.com/zimamlabs/namaa)** <sub>نماء</sub><br><sub>Money</sub> | Private money tracking in plain files: accounts, income and spending, monthly charts, budgets, repeating transactions and who owes whom. Formerly Zimma. | ![release](https://img.shields.io/github/v/release/zimamlabs/namaa?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/namaa/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/himma"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/himma-icon.png?v=4" width="64" alt="Himma"></a> | **[Himma](https://github.com/zimamlabs/himma)** <sub>همّة</sub><br><sub>Health</sub> | Meals, water, fasting, medicine reminders, gym routines and steps, kept on your phone. | ![release](https://img.shields.io/github/v/release/zimamlabs/himma?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/himma/total?label=downloads&color=121214&style=flat-square) |
-| <a href="https://github.com/zimamlabs/rakeb"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rakeb-icon.png?v=4" width="64" alt="Rakeb"></a> | **[Rakeb](https://github.com/zimamlabs/rakeb)** <sub>راكب</sub><br><sub>Ride</sub> | Ride hailing for riders, drivers and operations. 0.1 is an offline rider prototype; a Go backend is next. | ![release](https://img.shields.io/github/v/release/zimamlabs/rakeb?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/rakeb/total?label=downloads&color=121214&style=flat-square) |
-| <a href="https://github.com/zimamlabs/rahhala"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/rahhala-icon.png?v=4" width="64" alt="Rahhala"></a> | **[Rahhala](https://github.com/zimamlabs/rahhala)** <sub>رحّالة</sub><br><sub>Travel</sub> | Places to go, trips with days, packing and a budget, and events with a guest list and door check-in. | ![release](https://img.shields.io/github/v/release/zimamlabs/rahhala?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/rahhala/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/athar"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/athar-icon.png?v=1" width="64" alt="Athar"></a> | **[Athar](https://github.com/zimamlabs/athar)** <sub>أثر</sub><br><sub>Keep what matters</sub> | Notes, journal and clipboard history in plain files, with import from Thabit and Dawem. Linux and Android; English and Arabic. | ![release](https://img.shields.io/github/v/release/zimamlabs/athar?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/athar/total?label=downloads&color=121214&style=flat-square) |
 
 Every release carries one file per platform with its own `.sha256`, signed with the app's own key. The numbers above come live from GitHub.
@@ -38,8 +36,6 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 | **Thabit** | [v0.8.0](https://github.com/zimamlabs/thabit/releases/tag/v0.8.0) | 2026-10-14 |
 | **Namaa** | [v0.5.0](https://github.com/zimamlabs/namaa/releases/tag/v0.5.0) | 2026-10-14 |
 | **Falah** | [v0.5.0](https://github.com/zimamlabs/falah/releases/tag/v0.5.0) | 2026-10-14 |
-| **Rahhala** | [v0.1.1](https://github.com/zimamlabs/rahhala/releases/tag/v0.1.1) | 2026-10-14 |
-| **Rakeb** | [v0.1.1](https://github.com/zimamlabs/rakeb/releases/tag/v0.1.1) | 2026-10-14 |
 <!-- RELEASES:END -->
 
 ## What we are shipping
@@ -55,7 +51,6 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 - `2026-10-14` **Namaa**: [feat: arabic rtl](https://github.com/zimamlabs/namaa/pull/13)
 - `2026-10-14` **Falah**: [docs: names and readme](https://github.com/zimamlabs/falah/pull/13)
 - `2026-10-14` **Manhal**: [docs: names and readme](https://github.com/zimamlabs/manhal/pull/31)
-- `2026-10-14` **Rakeb**: [docs: names and readme](https://github.com/zimamlabs/rakeb/pull/4)
 - `2026-10-14` **Thabit**: [feat: final thabit icon](https://github.com/zimamlabs/thabit/pull/28)
 <!-- ACTIVITY:END -->
 
@@ -63,9 +58,9 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 
 ## Now building
 
-- **Stabilization first:** bug fixes, cleaner code and tests for Rukn (becoming Manhal), Thabit and Himma, checked on real phones, before more features.
+- **Stabilization first:** bug fixes, cleaner code and tests for Manhal, Thabit and Himma, checked on real phones, before more features.
 - **Arabic and right-to-left screens** in every app.
-- **Manhal:** text search in a book and translation of selected text. **Thabit:** reminders, repeating tasks and charts. **Falah:** home-screen widget and your own location. **Namaa:** savings goals and bank CSV import. **Himma:** gym plans and meal reminders. **Rahhala:** maps and QR entry at the door. **Rakeb:** a Go backend with real accounts and matching.
+- **Manhal:** text search in a book and translation of selected text. **Thabit:** reminders, repeating tasks and charts. **Falah:** home-screen widget and your own location. **Namaa:** savings goals and bank CSV import. **Himma:** gym plans and meal reminders.
 - **Athar** (أثر): a new app, in design.
 - **Names:** Rukn is becoming **Manhal** (منهل); Dawem is now **Thabit**; Zimma is now **Namaa**.
 

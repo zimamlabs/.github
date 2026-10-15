@@ -2,7 +2,7 @@
 """Rewrite the auto sections of profile/README.md from the org's real releases and merged pull requests."""
 import json, re, subprocess, sys
 ORG = "zimamlabs"
-APPS = ["manhal", "thabit", "falah", "namaa", "himma", "rakeb", "rahhala", "athar"]
+APPS = ["manhal", "thabit", "falah", "namaa", "himma", "athar"]
 
 def gh(path):
     out = subprocess.run(["gh", "api", path], capture_output=True, text=True)
