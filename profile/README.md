@@ -3,7 +3,7 @@
 <p align="center"><b>Calm, private, open-source apps you stay in control of.</b></p>
 
 <p align="center">
-  <a href="https://github.com/zimamlabs?tab=repositories"><img alt="apps" src="https://img.shields.io/badge/apps-8-FF5A1F?style=flat-square"></a>
+  <a href="https://github.com/zimamlabs?tab=repositories"><img alt="apps" src="https://img.shields.io/badge/apps-6-FF5A1F?style=flat-square"></a>
   <img alt="licence" src="https://img.shields.io/badge/licence-MIT-121214?style=flat-square">
   <img alt="accounts" src="https://img.shields.io/badge/accounts-none-121214?style=flat-square">
   <img alt="tracking" src="https://img.shields.io/badge/tracking-none-121214?style=flat-square">
@@ -17,13 +17,13 @@
 | | App | What it is | Status |
 |---|---|---|---|
 | <a href="https://github.com/zimamlabs/manhal"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/manhal-icon.png?v=6" width="64" alt="Manhal"></a> | **[Manhal](https://github.com/zimamlabs/manhal)** <sub>منهل</sub><br><sub>Read</sub> | A calm reader for PDFs, EPUB books, comics, text and paper books. Highlight, draw and comment on PDFs without losing the original. Covers, lists, reading time and an online lookup for book details. | ![release](https://img.shields.io/github/v/release/zimamlabs/manhal?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/manhal/total?label=downloads&color=121214&style=flat-square) |
-| <a href="https://github.com/zimamlabs/thabit"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/thabit-icon.png?v=6" width="64" alt="Thabit"></a> | **[Thabit](https://github.com/zimamlabs/thabit)** <sub>ثابت</sub><br><sub>Steady</sub> | Habits and tasks in plain-file vaults (formerly Dawem). A Home with today's rings, streaks and quick capture. Android and Linux from one codebase. | ![release](https://img.shields.io/github/v/release/zimamlabs/thabit?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/thabit/total?label=downloads&color=121214&style=flat-square) |
+| <a href="https://github.com/zimamlabs/thabit"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/thabit-icon.png?v=6" width="64" alt="Thabit"></a> | **[Thabit](https://github.com/zimamlabs/thabit)** <sub>ثابت</sub><br><sub>Steady</sub> | Habits, tasks and insights in plain-file vaults (formerly Dawem). A Home with today's rings, streaks and quick capture, reminders that stay until you answer. Notes and journal moved to Athar. Android.| ![release](https://img.shields.io/github/v/release/zimamlabs/thabit?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/thabit/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/falah"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/falah-icon.png?v=4" width="64" alt="Falah"></a> | **[Falah](https://github.com/zimamlabs/falah)** <sub>فلاح</sub><br><sub>Pray</sub> | Prayer times for where you are, the next prayer with a countdown, the qibla, and a log of your prayers. Works offline. | ![release](https://img.shields.io/github/v/release/zimamlabs/falah?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/falah/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/namaa"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/namaa-icon.png?v=6" width="64" alt="Namaa"></a> | **[Namaa](https://github.com/zimamlabs/namaa)** <sub>نماء</sub><br><sub>Money</sub> | Private money tracking in plain files: accounts, income and spending, monthly charts, budgets, repeating transactions and who owes whom. Formerly Zimma. | ![release](https://img.shields.io/github/v/release/zimamlabs/namaa?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/namaa/total?label=downloads&color=121214&style=flat-square) |
 | <a href="https://github.com/zimamlabs/himma"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/himma-icon.png?v=6" width="64" alt="Himma"></a> | **[Himma](https://github.com/zimamlabs/himma)** <sub>همّة</sub><br><sub>Health</sub> | Meals, water, fasting, medicine reminders, gym routines and steps, kept on your phone. | ![release](https://img.shields.io/github/v/release/zimamlabs/himma?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/himma/total?label=downloads&color=121214&style=flat-square) |
-| <a href="https://github.com/zimamlabs/athar"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/athar-icon.png?v=2" width="64" alt="Athar"></a> | **[Athar](https://github.com/zimamlabs/athar)** <sub>أثر</sub><br><sub>Keep what matters</sub> | Notes, journal and clipboard history in plain files, with import from Thabit and Dawem. Linux and Android; English and Arabic. | ![release](https://img.shields.io/github/v/release/zimamlabs/athar?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/athar/total?label=downloads&color=121214&style=flat-square) |
+| <a href="https://github.com/zimamlabs/athar"><img src="https://raw.githubusercontent.com/zimamlabs/.github/main/brand/athar-icon.png?v=2" width="64" alt="Athar"></a> | **[Athar](https://github.com/zimamlabs/athar)** <sub>أثر</sub><br><sub>Keep what matters</sub> | Notes, journal and quick capture in plain files, with import from Thabit and Dawem. Android today, Linux later; English and Arabic.| ![release](https://img.shields.io/github/v/release/zimamlabs/athar?label=&color=FF5A1F&style=flat-square)<br>![downloads](https://img.shields.io/github/downloads/zimamlabs/athar/total?label=downloads&color=121214&style=flat-square) |
 
-Every release carries one file per platform with its own `.sha256`, signed with the app's own key. The numbers above come live from GitHub.
+Every app is **Android today** (Linux editions come later, after each app reaches 1.0). Every release carries its APKs with a `.sha256` each, signed with the app's own key. The numbers above come live from GitHub.
 
 ## Latest releases
 
@@ -58,11 +58,13 @@ Every release carries one file per platform with its own `.sha256`, signed with 
 
 ## Now building
 
-Six focused apps, kept separate. The work now is making each one dependable before adding more.
+Six focused apps, kept separate. The work now is making each one dependable and consistent before adding more.
 
-- **Reliability first:** an audit of every app is done, and its findings are tracked as issues in each repository: data safety, reminders that survive restarts, money and prayer-time accuracy, and clear errors instead of silent ones.
-- **Arabic and right-to-left screens** in every app. Thabit is next.
-- **Manhal:** text search in a book and translation of selected text. **Thabit:** repeating tasks, widgets, and a slimmer shape once notes and journal live in Athar. **Falah:** your own location and a home-screen widget. **Namaa:** savings goals and bank CSV import. **Himma:** gym plans and meal reminders. **Athar:** a capture shortcut, backlinks and attachments.
+- **Reliability first:** every app was audited and each finding is an issue in its repository (labels `audit`, `P0` to `P3`). Data safety, reminders that survive restarts, money and prayer-time accuracy, and clear errors instead of silent ones come first.
+- **One standard for every app:** a Home page, smooth swipe between sections, a side menu, Settings in labelled sections, colour themes with Light, Dark and System, text size, About, What's new and a tour.
+- **Arabic and right-to-left screens** in every app, with English and Arabic texts checked against each other in CI.
+- **Widgets** on the Android home screen for the apps where they help most.
+- **Per app:** **Manhal** full-text search and translation of a selection. **Thabit** repeating tasks and widgets, now that notes and journal live in Athar. **Falah** your own location, accurate times for every place and a widget. **Namaa** savings goals and bank CSV import. **Himma** reliable medicine reminders, gym plans and meal reminders. **Athar** a capture shortcut, backlinks and attachments.
 - **Names:** Manhal (منهل) was Rukn; Thabit (ثابت) was Dawem; Namaa (نماء) was Zimma.
 
 ## How we build
