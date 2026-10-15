@@ -30,10 +30,10 @@ Every app is **Android today** (Linux editions come later, after each app reache
 <!-- RELEASES:START -->
 | App | Latest | Released |
 |---|---|---|
-| **Himma** | [v0.5.0](https://github.com/zimamlabs/himma/releases/tag/v0.5.0) | 2026-10-15 |
-| **Namaa** | [v0.6.0](https://github.com/zimamlabs/namaa/releases/tag/v0.6.0) | 2026-10-15 |
+| **Namaa** | [v0.7.0](https://github.com/zimamlabs/namaa/releases/tag/v0.7.0) | 2026-10-15 |
+| **Falah** | [v0.6.0](https://github.com/zimamlabs/falah/releases/tag/v0.6.0) | 2026-10-15 |
+| **Himma** | [v0.6.0](https://github.com/zimamlabs/himma/releases/tag/v0.6.0) | 2026-10-15 |
 | **Manhal** | [v0.14.3](https://github.com/zimamlabs/manhal/releases/tag/v0.14.3) | 2026-10-15 |
-| **Falah** | [v0.5.1](https://github.com/zimamlabs/falah/releases/tag/v0.5.1) | 2026-10-15 |
 | **Thabit** | [v0.9.0](https://github.com/zimamlabs/thabit/releases/tag/v0.9.0) | 2026-10-15 |
 | **Athar** | [v0.1.1](https://github.com/zimamlabs/athar/releases/tag/v0.1.1) | 2026-10-15 |
 <!-- RELEASES:END -->
@@ -41,18 +41,18 @@ Every app is **Android today** (Linux editions come later, after each app reache
 ## What we are shipping
 
 <!-- ACTIVITY:START -->
-- `2026-10-15` **Falah**: [feat: gps location](https://github.com/zimamlabs/falah/pull/45)
-- `2026-10-15` **Himma**: [fix: audit leftovers](https://github.com/zimamlabs/himma/pull/47)
-- `2026-10-15` **Manhal**: [feat: context menu](https://github.com/zimamlabs/manhal/pull/69)
-- `2026-10-15` **Namaa**: [feat: settings sections and themes](https://github.com/zimamlabs/namaa/pull/49)
-- `2026-10-15` **Falah**: [feat: prayer notice screen](https://github.com/zimamlabs/falah/pull/44)
-- `2026-10-15` **Himma**: [release: 0.5.0](https://github.com/zimamlabs/himma/pull/46)
-- `2026-10-15` **Manhal**: [feat: settings hub](https://github.com/zimamlabs/manhal/pull/68)
-- `2026-10-15` **Namaa**: [feat: typed settings object](https://github.com/zimamlabs/namaa/pull/48)
-- `2026-10-15` **Himma**: [feat: long press menu](https://github.com/zimamlabs/himma/pull/45)
-- `2026-10-15` **Falah**: [feat: countdown hh mm ss](https://github.com/zimamlabs/falah/pull/43)
-- `2026-10-15` **Namaa**: [chore: release 0 6 0](https://github.com/zimamlabs/namaa/pull/47)
-- `2026-10-15` **Manhal**: [feat: settings repository](https://github.com/zimamlabs/manhal/pull/67)
+- `2026-10-15` **Himma**: [feat: minimal home](https://github.com/zimamlabs/himma/pull/62)
+- `2026-10-15` **Falah**: [feat: context menu](https://github.com/zimamlabs/falah/pull/49)
+- `2026-10-15` **Manhal**: [feat: originals size clear](https://github.com/zimamlabs/manhal/pull/73)
+- `2026-10-15` **Namaa**: [chore: release 0 7 0](https://github.com/zimamlabs/namaa/pull/53)
+- `2026-10-15` **Manhal**: [fix: malformed documents](https://github.com/zimamlabs/manhal/pull/72)
+- `2026-10-15` **Namaa**: [feat: arabic amounts and chart semantics](https://github.com/zimamlabs/namaa/pull/52)
+- `2026-10-15` **Falah**: [chore: release 0 6 0](https://github.com/zimamlabs/falah/pull/48)
+- `2026-10-15` **Himma**: [feat: water widget](https://github.com/zimamlabs/himma/pull/61)
+- `2026-10-15` **Falah**: [feat: high latitude rule](https://github.com/zimamlabs/falah/pull/47)
+- `2026-10-15` **Manhal**: [feat: book search ui](https://github.com/zimamlabs/manhal/pull/71)
+- `2026-10-15` **Namaa**: [feat: long press menus](https://github.com/zimamlabs/namaa/pull/51)
+- `2026-10-15` **Falah**: [fix: prayer time accuracy](https://github.com/zimamlabs/falah/pull/46)
 <!-- ACTIVITY:END -->
 
 <sub>These two lists refresh from GitHub every six hours.</sub>
